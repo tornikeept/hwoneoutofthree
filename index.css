@@ -1,0 +1,20 @@
+.listB{
+    border: dotted;
+    background-color: yellow;
+    width: 200px;
+    border-width: 4px;
+    border-radius: 10%;
+    
+}
+.listC{
+    padding-bottom: 5px;
+    /* ვერ მივხვდი მე-5 დავალების აზრს(შესაბამისად 6), მიზანი იყო ბოტომ ბორდერის ტექსტიდან დაშორება, მაგრამ ლოგიკა ვერ გავიგე, ამიტომ პადინგი გავზადდე ბოტომის 5 პიქსელით(მანამდე იყო 0) */
+    padding-top: 5px;
+}
+
+.listName{
+    border-bottom: double;
+    border-color: red;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
